@@ -97,7 +97,6 @@ class _SearchBarPageState extends State<SearchBarPage> {
     return Text(widget.title);
   }
 
-
   @override
   Widget build(BuildContext context) {
     return new Scaffold(
